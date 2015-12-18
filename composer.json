@@ -1,0 +1,19 @@
+{
+    "name": "ferminhg/mailchimp-api",
+    "description": "Super-simple, minimum abstraction MailChimp API v3 , in PHP.",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-0": { "Ferminhg": "src/" }
+    },
+    "homepage": "https://github.com/ferminhg/mailchimp-api",
+    "authors": [ 
+        {
+            "name": "Fermin Hernandez",
+            "homepage": "https://github.com/ferminhg/"
+
+        }
+    ]
+}
