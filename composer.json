@@ -3,7 +3,7 @@
     "description": "Super-simple, minimum abstraction MailChimp API v3 , in PHP.",
     "version": "1.0.0",
     "license": "MIT",
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3"
     },

@@ -1,5 +1,4 @@
 <?php
-
 /**
  * Super-simple, minimum abstraction MailChimp API v3
  *
@@ -8,6 +7,7 @@
  * @author Fermin Hernandez Gil <fermin.hdez@gmail.com>
  * @version 1.0.0
  */
+
 class MailChimpBaseSuperSimple
 {
     public $apikey = "YOUR-API-KEY";
