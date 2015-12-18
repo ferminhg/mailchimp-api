@@ -1,6 +1,7 @@
 {
     "name": "ferminhg/mailchimp-api",
     "description": "Super-simple, minimum abstraction MailChimp API v3 , in PHP.",
+    "version": "0.1.0",
     "license": "MIT",
     "minimum-stability": "stable",
     "require": {
